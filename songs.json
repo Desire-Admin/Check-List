@@ -9,10 +9,17 @@
     },
     {
       "id": 2,
-      "title": "Faded T",
-      "artist": " Alan Walker",
+      "title": "Faded",
+      "artist": "Alan Walker",
       "cover": "https://upload.wikimedia.org/wikipedia/vi/d/da/Alan_Walker_-_Faded.png",
       "url": "https://alanwakerfaded.edgeone.app/Alan%20Walker%20-%20Faded%20_%20(%20Medium%20Quality%20).mp3"
+    }
+{
+      "id": 2,
+      "title": "Hello",
+      "artist": "OMFG",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOHhiFgmBDp_efIGZwxZivq-T5vs6yPKF_zmcP6RyUKg&s=10",
+      "url": "https://omfghello.edgeone.app/OMFG%20-%20Hello%20(Official%20Audio).mp3"
     }
   ]
 }
