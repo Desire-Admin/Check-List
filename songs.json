@@ -4,25 +4,104 @@
       "id": 1,
       "title": "Montagrem Ladrao Uitra Slowed",
       "artist": "ATLXS Và MXZI Và Itamar Mc",
+      "artist_avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/artist_1.png",
       "cover": "https://image-cdn.nct.vn/song/2025/02/05/d/b/2/c/1738772778479_300.jpg",
-      "url": "https://montagemladrao.edgeone.app/MONTAGEM%20LADR%C3%83O%20(ULTRA%20SLOWED).mp3",
-      "lyrics": ""
+      "url": "https://montagemladrao.edgeone.app/1.mp3",
+      "format": "MP3",
+      "quality": "320 kbps",
+      "filesize": "12.5 MB",
+      "duration": "3:45",
+      "info": "Bản phối Ultra Slowed đặc biệt của Montagrem Ladrao, mang đến trải nghiệm âm nhạc sâu lắng và cuốn hút.",
+      "collaborators": [
+        {
+          "name": "ATLXS",
+          "role": "Producer",
+          "avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/atlxs.png"
+        },
+        {
+          "name": "MXZI",
+          "role": "Vocal",
+          "avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/mxzi.png"
+        },
+        {
+          "name": "Itamar Mc",
+          "role": "Lyricist",
+          "avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/itamar.png"
+        }
+      ],
+      "genre": "Electronic, Slowed",
+      "release_date": "2025-02-05"
     },
     {
       "id": 2,
       "title": "Faded",
       "artist": "Alan Walker",
+      "artist_avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/alan_walker.png",
       "cover": "https://upload.wikimedia.org/wikipedia/vi/d/da/Alan_Walker_-_Faded.png",
-      "url":"https://alanwakerfaded.edgeone.app/Alan%20Walker%20-%20Faded%20_%20(%20Medium%20Quality%20).mp3",
-      "lyrics": ""
+      "url": "https://alanwakerfaded.edgeone.app/2.mp3",
+      "format": "MP3",
+      "quality": "128 kbps",
+      "filesize": "8.2 MB",
+      "duration": "3:32",
+      "info": "Faded là bài hát nổi tiếng của Alan Walker, được phát hành vào năm 2015 và đạt được thành công lớn trên toàn thế giới.",
+      "collaborators": [
+        {
+          "name": "Alan Walker",
+          "role": "Producer",
+          "avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/alan_walker.png"
+        }
+      ],
+      "genre": "Electronic, House",
+      "release_date": "2015-12-03"
     },
     {
       "id": 3,
       "title": "Hello",
       "artist": "OMFG",
+      "artist_avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/omfg.png",
       "cover": "https://i1.sndcdn.com/artworks-000167752666-l85dbf-t500x500.jpg",
-      "url": "https://omfghello.edgeone.app/OMFG%20-%20Hello%20(Official%20Audio).mp3",
-      "lyrics": "https://github.com/Desire-Admin/Check-List/blob/main/omfghello-lyrics.txt"
+      "url": "https://omfghello.edgeone.app/3.mp3",
+      "format": "MP3",
+      "quality": "192 kbps",
+      "filesize": "6.8 MB",
+      "duration": "2:45",
+      "info": "Hello là một trong những bài hát nổi tiếng nhất của OMFG, mang giai điệu vui tươi và sôi động.",
+      "collaborators": [
+        {
+          "name": "OMFG",
+          "role": "Producer",
+          "avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/omfg.png"
+        }
+      ],
+      "genre": "Electronic, Dance",
+      "release_date": "2016-03-15"
+    },
+    {
+      "id": 4,
+      "title": "Da Da Da Remix",
+      "artist": "Tanir ft Và Tyomcha",
+      "artist_avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/tanir_tyomcha.png",
+      "cover": "https://painful-rose-wt7byoht.edgeone.app/images.jpeg",
+      "url": "https://dadadatanir.edgeone.app/4.mp3",
+      "format": "MP3",
+      "quality": "320 kbps",
+      "filesize": "14.3 MB",
+      "duration": "4:15",
+      "info": "Bản remix đặc sắc của Tanir và Tyomcha, kết hợp giữa giai điệu bắt tai và phần lời sôi động.",
+      "collaborators": [
+        {
+          "name": "Tanir",
+          "role": "Vocal",
+          "avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/tanir.png"
+        },
+        {
+          "name": "Tyomcha",
+          "role": "Vocal",
+          "avatar": "https://raw.githubusercontent.com/Desire-Admin/Check-List/main/avatar/tyomcha.png"
+        }
+      ],
+      "genre": "Pop, Remix",
+      "release_date": "2024-08-20"
     }
   ]
 }
