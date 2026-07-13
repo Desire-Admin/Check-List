@@ -102,6 +102,28 @@
       ],
       "genre": "Pop, Remix",
       "release_date": "2024-08-20"
+    },
+    {
+      "id": 5,
+      "title": "Hello",
+      "artist": "Désiré Artist",
+      "artist_avatar": "https://electrical-silver-nfnm1tg2.edgeone.dev/IMG_20260713_202009.png",
+      "cover": "https://administrative-green-77ef4mqa.edgeone.dev/thank%20you%20so%20much_20260713_200218_0000.jpg",
+      "url": "https://morninghere.edgeone.dev/music_149459611090945_DtqJErgA7CTLSzEusxyZ1K_cxvecc.mp3",
+      "format": "MP3",
+      "quality": "Unknown",
+      "filesize": "6.2 MB",
+      "duration": "3:22",
+      "info": " Morning Here! Là một bài hát không lời thư giãn nhẹ nhàng Vào buổi sáng",
+      "collaborators": [
+        {
+          "name": "Désiré Artist",
+          "role": "Producer",
+          "avatar": "https://electrical-silver-nfnm1tg2.edgeone.dev/IMG_20260713_202009.png"
+        }
+      ],
+      "genre": "Instrumental, Lofi",
+      "release_date": "2026-07-13"
     }
   ]
 }
