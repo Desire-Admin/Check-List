@@ -22,6 +22,38 @@
       ],
       "genre": "Instrumental, Lofi",
       "release_date": "2026-07-13"
+    },
+    {
+      "id": 2,
+      "title": "Heroes Tonight",
+      "artist": "NCS, Janji, Johnning",
+      "artist_avatar": "",
+      "cover": "",
+      "url": "https://heroestonight.edgeone.dev/_160_bits_WEBMA_OPUS.mp3",
+      "format": "MP3",
+      "quality": "160 Bits",
+      "filesize": "3,5MB",
+      "duration": "03:29",
+      "info": "Heroes Tonight is a song by Janji featuring Johnning released on June 9, 2015. It is featured as the seventh track in NCS: The Best of 2015, the third track in Top 50 NCS, the sixth track in Nostalgic Gaming and the fifth track in Best Of No Copyright Sounds (NCS).",
+      "collaborators": [
+        {
+          "name": "NoCopyrightSound",
+          "role": "Publisher",
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJSjJLFgGmZ6nKTtbiBide2eP1C4D50Nrw-bLUt08Dg&s=10"
+        },
+        {
+          "name": "Janji",
+          "role": "Producer",
+          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPz0vJkVOvdoq6YRP5YE23-uVeuM5HvrErCd-a3trfQ&s=10"
+        },
+        {
+          "name": "Johnning",
+          "role": "Featured Artist",
+          "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mw_-I4E3Z8Ap8FhU1CcxL97LYbfuIUvIEWphwnIO7j1A=s900-c-k-c0x00ffffff-no-rj"
+        }
+      ],
+      "genre": "EDM",
+      "release_date": "2015-06-9"
     }
   ]
 }
