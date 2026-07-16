@@ -27,7 +27,7 @@
       "id": 2,
       "title": "Heroes Tonight",
       "artist": "NCS, Janji, Johnning",
-      "artist_avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mw_-I4E3Z8Ap8FhU1CcxL97LYbfuIUvIEWphwnIO7j1A=s900-c-k-c0x00ffffff-no-rj",
+      "artist_avatar": "",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGjqcUjXugZJ3MNwSmsWXyFHRDRM3y7SNY82z92HXYkQ&s=10",
       "url": "https://heroestonight.edgeone.dev/_160_bits_WEBMA_OPUS.mp3",
       "format": "MP3",
@@ -44,16 +44,43 @@
         {
           "name": "Janji",
           "role": "Producer",
-          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpPz0vJkVOvdoq6YRP5YE23-uVeuM5HvrErCd-a3trfQ&s=10"
+          "avatar": ""
         },
         {
           "name": "Johnning",
           "role": "Featured Artist",
-          "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mw_-I4E3Z8Ap8FhU1CcxL97LYbfuIUvIEWphwnIO7j1A=s900-c-k-c0x00ffffff-no-rj"
+          "avatar": ""
         }
       ],
       "genre": "EDM",
       "release_date": "2015-06-9"
+    },
+{
+      "id": 3,
+      "title": "Round Around Phouse",
+      "artist": "NCS, HXI, Nateki",
+      "artist_avatar": "",
+      "cover": "https://i1.sndcdn.com/artworks-EYzYswJQiyM2WqHe-oMqSIQ-t500x500.png",
+      "url": "https://roundaround.edgeone.dev/HXI,%20Nateki%20-%20Round%20Around%20_%20Phouse%20_%20NCS%20-%20Copyright%20Free%20Music.mp3",
+      "format": "MP3",
+      "quality": "128",
+      "filesize": "2,70MB",
+      "duration": "02:55",
+      "info": "",
+      "collaborators": [
+        {
+          "name": "HXI & Nateki",
+          "role": "Track",
+          "avatar": ""
+        },
+        {
+          "name": "NoCopyrightSound",
+          "role": "Manufacture",
+          "avatar": ""
+        }
+      ],
+      "genre": "Phonk",
+      "release_date": "2025-09-23"
     }
   ]
 }
